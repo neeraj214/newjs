@@ -1,0 +1,2 @@
+# newjs
+code of javascript
